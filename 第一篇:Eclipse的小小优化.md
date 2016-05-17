@@ -124,7 +124,7 @@ E:\java-tools\Java\JDK8_64\jdk1.8.0_77\bin
   展开Text,修改JSP的编码格式为` UTF-8 `点击Update
   ![Alt text](./快照12.jpg)
 11. 设置新建JSP时的默认编码格式为UTF-8
-![Alt text](./快照14.jpg)
+![Alt text](https://app.yinxiang.com/shard/s32/res/fd66a7e6-9a47-4110-a7e5-6f8979acdeed/%E5%BF%AB%E7%85%A714.jpg)
 
 ----
 	        后续 : 设置Tomcat和JDK,简单修改JSP模版   -  作者: 刘文铭
